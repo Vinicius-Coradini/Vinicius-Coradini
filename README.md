@@ -52,7 +52,6 @@
   <img width="44.8%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Coradini&layout=compact&langs_count=8&theme=merko" alt="Top Languages" style="display: inline-block;" />
 </div>
 
-![snake gif](https://github.com/Vinicius-Coradini/Vinicius-Coradini/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
