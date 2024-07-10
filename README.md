@@ -47,6 +47,9 @@
   <a href='https://tailwindcss.com/'>
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
 </p>
 <h1></h1>
 
