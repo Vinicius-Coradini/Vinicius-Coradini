@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinicius Coradini<br>A passionate frontend developer from Brazil</h1>
+<h1 align="center">Hi 👋, I'm Vinicius Coradini<br>A passionate Full Stack developer from Brazil</h1>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
